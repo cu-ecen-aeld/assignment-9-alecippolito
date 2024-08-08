@@ -3,4 +3,4 @@
 
 
 cd ./buildroot
-make distclen
+make distclean
